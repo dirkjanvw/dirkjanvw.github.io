@@ -2,6 +2,7 @@
 title: "PanTools"
 collection: software
 permalink: /software/pantools
+link: "https://git.wur.nl/bioinformatics/pantools"
 venue: "Wageningen University, Bioinformatics"
 ---
 
