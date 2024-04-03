@@ -86,9 +86,9 @@ author:
   location         : "Wageningen, the Netherlands"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=FM6D124AAAAJ"
   email            : "dirk-jan.vanworkum@wur.nl"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Dirk_Jan_Van_Workum"
   uri              :
   bitbucket        :
   codepen          :

@@ -23,8 +23,6 @@ Work experience
   
 Skills (TODO)
 ======
-* Skill 1
-* Skill 2
 * Programming
   * Bash
   * Python
