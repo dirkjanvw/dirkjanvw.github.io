@@ -37,7 +37,7 @@ Skills (TODO)
 
 Publications
 ======
-  <ul>{% for post in site.publications reverse %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
