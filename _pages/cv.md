@@ -41,8 +41,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Software (TODO)
+Software
 ======
   <ul>{% for post in site.software %}
-    {% include archive-single-software.html %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
