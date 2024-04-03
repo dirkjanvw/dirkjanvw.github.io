@@ -11,13 +11,18 @@ redirect_from:
 
 Education
 ======
-* BSc in Plant Sciences, Wageningen University, 2018
-* MSc in Plant Biotechnology, Wageningen University, 2020
-* PhD in Bioinformatics, Wageningen University, 2025 (expected)
+* PhD in Bioinformatics, Wageningen University, 2020-2025 (expected)
+* MSc in Plant Biotechnology, Wageningen University, 2018-2020
+* BSc in Plant Sciences, Wageningen University, 2015-2018
 
 Work experience
 ======
-* 2020: MSc Internship
+* 2020-2025: PhD Bioinformatics
+  * Wageningen University
+  * Promotor: Dick de Ridder
+  * Co-promotors: Eric Schranz & Sandra Smit
+  * Daily supervisor: Sandra Smit
+* 2018-2020: MSc Internship
   * GeneTwister
   * Supervisor: Peter van Dam
   
@@ -25,13 +30,14 @@ Skills (TODO)
 ======
 * Programming
   * Bash
+  * Java
+  * Snakemake
   * Python
   * R
-  * Java
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reverse %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
