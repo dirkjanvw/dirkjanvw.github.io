@@ -3,11 +3,8 @@ title: "PanTools"
 collection: software
 permalink: /software/pantools
 link: "https://git.wur.nl/bioinformatics/pantools"
-venue: "Wageningen University, Bioinformatics"
+employer: "Employer"
 ---
 
-This will be a summary of my contribution to PanTools
-
-Heading 1
-======
-TODO
+For my PhD (2020-2025) I have developed several major features for PanTools as
+well as general code improvements. _TODO_
