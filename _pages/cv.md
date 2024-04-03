@@ -44,5 +44,5 @@ Publications
 Software (TODO)
 ======
   <ul>{% for post in site.software %}
-    {% include archive-single-software-cv.html %}
+    {% include archive-single-software.html %}
   {% endfor %}</ul>
