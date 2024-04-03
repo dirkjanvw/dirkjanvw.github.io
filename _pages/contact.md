@@ -7,6 +7,4 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.contact reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+For contact, please send me an email over dirk-jan.vanworkum@wur.nl
