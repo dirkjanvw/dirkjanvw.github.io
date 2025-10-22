@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* PhD in Bioinformatics, Wageningen University, 2020-2025 (expected)
+* PhD in Bioinformatics, Wageningen University, 2020-2025
 * MSc in Plant Biotechnology, Wageningen University, 2018-2020
 * BSc in Plant Sciences, Wageningen University, 2015-2018
 
-Work experience
+Experience
 ======
 * 2020-2025: PhD Bioinformatics
   * Wageningen University
@@ -26,7 +26,7 @@ Work experience
   * GeneTwister
   * Supervisor: Peter van Dam
   
-Skills (TODO)
+Skills (not limited to the below)
 ======
 * Programming
   * Bash
@@ -34,6 +34,11 @@ Skills (TODO)
   * Snakemake
   * Python
   * R
+* Research
+  * Genomics
+  * Pangenomics
+  * Comparative genomics
+  * Transcriptomics
 
 Publications
 ======
