@@ -17,8 +17,14 @@ Education
 
 Experience
 ======
-* 2020-2025: PhD Bioinformatics
+* 2025-present: Postdoctoral researcher
   * Wageningen University
+    * Laboratory of Plant Physiology
+    * Biosystematics Group
+  * Supervisors: Charlotte Gommers & Marian Bemer
+* 2020-2025: PhD candidate
+  * Wageningen University
+    * Bioinformatics Group
   * Promotor: Dick de Ridder
   * Co-promotors: Eric Schranz & Sandra Smit
   * Daily supervisor: Sandra Smit
