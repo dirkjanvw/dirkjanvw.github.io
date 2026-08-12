@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Dirk-Jan van Workum"
+title                    : "Dirk-Jan M. van Workum"
 title_separator          : "-"
-name                     : &name "Dirk-Jan van Workum"
-description              : &description "PhD candidate @ WUR"
+name                     : &name "Dirk-Jan M. van Workum"
+description              : &description "Postdoctoral researcher @ WUR"
 url                      : https://dirkjanvw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dirkjanvw/dirkjanvw.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Dirk-Jan M. van Workum"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate in the Bioinformatics Group (WUR); member of the LettuceKnow consortium"
+  bio              : "Postdoctoral researcher in the Laboratory of Plant Physiology and the Biostematics Group (WUR)"
   location         : "Wageningen, the Netherlands"
   employer         :
   uri              : # URL
