@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Dirk-Jan van Workum is a PhD candidate in the Bioinformatics Group at Wageningen University (the Netherlands), working as part of the [LettuceKnow](https://lettuceknow.nl/) consortium.
+Dirk-Jan M. van Workum is a postdoctoral researcher in the Laboratory of Plant Physiology and the Biosystematics Group at Wageningen University (the Netherlands) working on modelling gene expression in plants when they undergo developmental transitions.
+Prior, he was a PhD candidate in the Bioinformatics Group at Wageningen University (the Netherlands), working as part of the [LettuceKnow](https://lettuceknow.nl/) consortium.
 Before starting his PhD, Dirk-Jan obtained a BSc in Plant Sciences and a MSc in Plant Biotechnology, combining bioinformatics and wet lab plant sciences.
 The topic of his PhD project is on the integration of genomic and transcriptomic variation in the lettuce pangenome, for which the collaborations with colleagues of the LettuceKnow consortium are very helpful.
 For his own project, he is actively using pangenomics software for the construction and analysis of (lettuce) pangenomes.
